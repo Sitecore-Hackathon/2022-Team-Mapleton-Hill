@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Sitecore.Devex.Client.Cli.Extensibility" Version="4.1.1" />
+    <PackageReference Include="Sitecore.Devex.Client.Cli.Extensibility" Version="4.0.0" />
   </ItemGroup>
 
 </Project>
